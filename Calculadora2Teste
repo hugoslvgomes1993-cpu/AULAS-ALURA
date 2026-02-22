@@ -1,5 +1,5 @@
 def calculadora():
-    print("=== CALCULADORA EM PYTHON teste alura ===")
+    print("=== CALCULADORA EM PYTHON TESTE ALURA ===")
     print("Operações disponíveis:")
     print("1 - Soma (+)")
     print("2 - Subtração (-)")
